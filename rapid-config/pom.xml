@@ -8,6 +8,10 @@
 	</parent>
 	<groupId>rapid-config</groupId>
 	<artifactId>rapid-config</artifactId>
+	
+	<properties>
+		<start-class>rapid.config.ConfigApplication</start-class>
+	</properties>
 
 	<dependencies>
 		<dependency>
